@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_name_color">@color/black</color>
+    <color name="login_cardView_color">@color/black</color>
+    <color name="welcome_color">@color/white</color>
+</resources>

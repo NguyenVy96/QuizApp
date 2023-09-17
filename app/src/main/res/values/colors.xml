@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="red">#FA0404</color>
+    <color name="blue_status_bar">#5E75E4</color>
+    <color name="app_name_color">@color/white</color>
+    <color name="login_cardView_color">@color/white</color>
+    <color name="welcome_color">@color/black</color>
+    <color name="insert_name_color">#6C6262</color>
+
 </resources>

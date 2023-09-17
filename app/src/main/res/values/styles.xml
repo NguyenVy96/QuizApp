@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="login_cardView_element">
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    </style>
+
+    <style name="login_cardView_element_margin_top" parent="login_cardView_element">
+        android:layout_marginTop="@dimen/login_cardView_element_margin_top"
+    </style>
+</resources>

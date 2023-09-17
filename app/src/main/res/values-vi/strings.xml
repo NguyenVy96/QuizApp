@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Xin chào</string>
+    <string name="insert_name">Vui lòng nhập tên của bạn</string>
+    <string name="name">Tên</string>
+    <string name="start">Bắt đầu</string>
+</resources>
