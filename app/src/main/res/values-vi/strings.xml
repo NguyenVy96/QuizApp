@@ -4,4 +4,6 @@
     <string name="insert_name">Vui lòng nhập tên của bạn</string>
     <string name="name">Tên</string>
     <string name="start">Bắt đầu</string>
+    <string name="question">Lá cờ này là của quốc gia nào?</string>
+    <string name="submit">Trả lời</string>
 </resources>

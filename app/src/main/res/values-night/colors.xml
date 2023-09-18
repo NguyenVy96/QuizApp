@@ -3,4 +3,5 @@
     <color name="app_name_color">@color/black</color>
     <color name="login_cardView_color">@color/black</color>
     <color name="welcome_color">@color/white</color>
+    <color name="default_option_bg_solid_color">@color/black</color>
 </resources>

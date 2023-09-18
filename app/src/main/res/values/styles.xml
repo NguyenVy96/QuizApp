@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="login_cardView_element">
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+
+    <style name="question_option_style">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/default_option_bg</item>
+        <item name="android:textSize">@dimen/default_option_text_size</item>
+        <item name="android:layout_marginTop">@dimen/question_element_margin_top</item>
     </style>
 
-    <style name="login_cardView_element_margin_top" parent="login_cardView_element">
-        android:layout_marginTop="@dimen/login_cardView_element_margin_top"
-    </style>
 </resources>

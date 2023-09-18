@@ -30,7 +30,7 @@
             android:layout_height="match_parent"
             android:gravity="center"
             android:orientation="vertical"
-            android:padding="@dimen/login_cardView_margin_side">
+            android:padding="@dimen/login_cardView_padding">
 
             <TextView
                 android:id="@+id/tv_welcome"

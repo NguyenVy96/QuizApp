@@ -12,5 +12,4 @@ class QuizApplication : Application() {
         startActivity(intent)
     }
 
-
 }

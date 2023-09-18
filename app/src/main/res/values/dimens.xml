@@ -9,4 +9,12 @@
     <dimen name="login_cardView_welcome_text_size">30sp</dimen>
     <dimen name="login_cardView_insert_name_text_size">15sp</dimen>
     <dimen name="login_cardView_name_text_size">15sp</dimen>
+    <dimen name="question_layout_padding">20dp</dimen>
+    <dimen name="question_text_size">20sp</dimen>
+    <dimen name="default_option_bg_corner">20dp</dimen>
+    <dimen name="default_option_text_size">20sp</dimen>
+    <dimen name="question_element_margin_top">20dp</dimen>
+    <dimen name="question_progress_bar_height">10dp</dimen>
+    <dimen name="question_tv_process">13sp</dimen>
+
 </resources>
